@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "835642780603",
+    "project_id": "okaabo-delivery",
+    "storage_bucket": "okaabo-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835642780603:android:b427f445c07861f9c7329e",
+        "android_client_info": {
+          "package_name": "com.okaabo.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835642780603-ns9lv1fgq0ipdaacd12e25cli9drr1qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgNwALOe0I4uQ9LuT1Z-dlUdt_Yidai5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835642780603-ns9lv1fgq0ipdaacd12e25cli9drr1qj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
